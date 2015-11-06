@@ -1,0 +1,10 @@
+{
+    "name": "skedone/conveyor",
+    "authors": [
+        {
+            "name": "Edoardo Biraghi",
+            "email": "edoardo.biraghi@gmail.com"
+        }
+    ],
+    "require": {}
+}
